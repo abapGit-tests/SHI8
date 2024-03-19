@@ -1,2 +1,3 @@
-# Template
-Template for abapGit CI Tests
+# SHI8
+
+SFW Switch Assignment in Hierarchy Tool
